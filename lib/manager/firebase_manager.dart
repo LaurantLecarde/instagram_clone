@@ -57,6 +57,7 @@ class FirebaseManager {
     return FbUser.user(
         map['uid'].toString(),
         map['username'].toString(),
+
         map['email'].toString(),
         map['image'].toString(),
         map['password'].toString(),
