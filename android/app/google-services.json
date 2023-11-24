@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209139894984",
+    "project_id": "instagrammystar",
+    "storage_bucket": "instagrammystar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209139894984:android:eff7b909b60d7f54b173fd",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0imFVg2HkhCbfcVCA2DX_7K43GOvre3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
